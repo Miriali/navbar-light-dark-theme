@@ -16,7 +16,7 @@ In this repository you can find a practice that I hope will be useful to improve
 - [Flat UI Colors](https://flatuicolors.com/)  :paintbrush:
 - [UiGradients](https://uigradients.com/)  :crayon:
 
-### Authors :woman_technologist:
+### Author :woman_technologist:
 [Miriali López Melean](https://github.com/Miriali) 
 
 ### Stay In Touch :relaxed:
